@@ -1,0 +1,222 @@
+.body,
+html {
+    margin: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.full-page {
+    height: 1100px;
+    width: 100%;
+    background-color: #70a5bd;
+    overflow: auto;
+}
+
+.menubar {
+    width: 100%;
+    padding: 30px;
+}
+
+.menus {
+    width: 80%;
+    margin: auto;
+    overflow: auto;
+}
+
+.menu {
+    width: 40%;
+    float: left;
+    overflow: auto;
+}
+
+.xeone {
+    width: 20%;
+    float: left;
+}
+
+.home {
+    width: 25%;
+    float: left;
+    padding: 10px;
+}
+
+.xeonemenu {
+    width: 100%;
+    float: left;
+}
+
+.feature {
+    height: 50px;
+    width: 139px;
+    background-color: white;
+    margin: 15px 10px;
+}
+
+.feature2 {
+    width: 100%;
+}
+
+.xeone-logo {
+    height: 80px;
+    width: 80%;
+    margin: 10px auto;
+    background-color: white;
+}
+
+.sidemenu-button {
+    height: 80px;
+    width: 80px;
+    top: 50px;
+    right: 50px;
+    position: absolute;
+    background-color: white;
+}
+.slide-menu{
+    height: 300px;
+    width: 100px;
+    top: 350px;
+    right: 50px;
+    position: absolute;
+}
+.slidemenu-button{
+    height: 40px;
+    width: 40px;
+    margin: 20px auto;
+    background-color: white;
+}
+.text-box {
+    width: 40%;
+    margin: 150px 200px;
+    padding: 20px;
+}
+
+.text1 {
+    height: 120px;
+    width: 100%;
+    margin: 10px 0px;
+    background-color: white;
+}
+
+.text2 {
+    height: 70px;
+    width: 90%;
+    margin: 50px 0px;
+    background-color: white;
+}
+
+.learn-more {
+    height: 100px;
+    width: 300px;
+    background-color: white;
+    margin: 100px auto;
+}
+.designs{
+    width: 100%;
+    overflow: auto;
+}
+.design{
+    height: 1000px;
+    width: 50%;
+    float: left;
+    background-color: darkgray;
+}
+.design2{
+    height: 1000px;
+    width: 50%;
+    float: left;
+    background-color: white;
+}
+.service-offer{
+    height: 50px;
+    width: 40%;
+    background-color: deepskyblue;
+    margin: 150px 350px 50px 350px;
+}
+.marketting-title{
+    height: 100px;
+    width: 70%;
+    background-color: black;
+    margin: auto;
+}
+.marketting-para{
+    height: 200px;
+    width: 90%;
+    background-color: gray;
+    margin: 100px auto;
+}
+.design-works{
+    height: 100px;
+    width: 300px;
+    background-color: deepskyblue;
+    margin: auto;
+}
+.work-progress{
+    width: 100%;
+    background-color:darkturquoise;
+}
+.container{
+    height: 1000px;
+    width: 80%;
+    margin: auto;
+    overflow: auto;
+}
+.progress-title{
+    height: 100px;
+    width: 40%;
+    margin: 250px auto 100px;
+    background-color: white;
+}
+five-steps{
+    width: 80%;
+    margin: auto;
+    overflow: auto;
+}
+.step1{
+    height: 500px;
+    width: 20%;
+    float: left;
+    padding: 20px;
+}
+.number{
+   height: 100px;
+    width: 100px;
+    background-color: white;
+    margin: 10px auto;
+}
+.step-title{
+    height: 40px;
+    width: 60%;
+    margin: 40px auto;
+    background-color: white;
+}
+.about-step{
+    height: 150px;
+    width: 95%;
+    margin: auto;
+    background-color: white;
+}
+.team{
+    height: 500px;
+    width: 100%;
+    margin:100px 0px;
+}
+.heros{
+    height: 50px;
+    width: 40%;
+    margin: auto;
+    background-color: darkcyan;
+}
+.creative-team{
+    height: 200px;
+    width: 60%;
+    background-color: black;
+    margin: 50px auto;
+}
+.team-para{
+    height: 300px;
+    width: 80%;
+    margin: auto;
+    background-color: darkgray
+}
