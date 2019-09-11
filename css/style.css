@@ -73,19 +73,22 @@ html {
     position: absolute;
     background-color: white;
 }
-.slide-menu{
+
+.slide-menu {
     height: 300px;
     width: 100px;
     top: 350px;
     right: 50px;
     position: absolute;
 }
-.slidemenu-button{
+
+.slidemenu-button {
     height: 40px;
     width: 40px;
     margin: 20px auto;
     background-color: white;
 }
+
 .text-box {
     width: 40%;
     margin: 150px 200px;
@@ -112,111 +115,188 @@ html {
     background-color: white;
     margin: 100px auto;
 }
-.designs{
+
+.designs {
     width: 100%;
     overflow: auto;
 }
-.design{
+
+.design {
     height: 1000px;
     width: 50%;
     float: left;
     background-color: darkgray;
 }
-.design2{
+
+.design2 {
     height: 1000px;
     width: 50%;
     float: left;
     background-color: white;
 }
-.service-offer{
+
+.service-offer {
     height: 50px;
     width: 40%;
     background-color: deepskyblue;
     margin: 150px 350px 50px 350px;
 }
-.marketting-title{
+
+.marketting-title {
     height: 100px;
     width: 70%;
     background-color: black;
     margin: auto;
 }
-.marketting-para{
+
+.marketting-para {
     height: 200px;
     width: 90%;
     background-color: gray;
     margin: 100px auto;
 }
-.design-works{
+
+.design-works {
     height: 100px;
     width: 300px;
     background-color: deepskyblue;
     margin: auto;
 }
-.work-progress{
+
+.work-progress {
     width: 100%;
-    background-color:darkturquoise;
+    background-color: darkturquoise;
 }
-.container{
+
+.container {
     height: 1000px;
     width: 80%;
     margin: auto;
     overflow: auto;
 }
-.progress-title{
+
+.progress-title {
     height: 100px;
     width: 40%;
     margin: 250px auto 100px;
     background-color: white;
 }
-five-steps{
+
+five-steps {
     width: 80%;
     margin: auto;
     overflow: auto;
 }
-.step1{
+
+.step1 {
     height: 500px;
     width: 20%;
     float: left;
     padding: 20px;
 }
-.number{
-   height: 100px;
+
+.number {
+    height: 100px;
     width: 100px;
     background-color: white;
     margin: 10px auto;
 }
-.step-title{
+
+.step-title {
     height: 40px;
     width: 60%;
     margin: 40px auto;
     background-color: white;
 }
-.about-step{
+
+.about-step {
     height: 150px;
     width: 95%;
     margin: auto;
     background-color: white;
 }
-.team{
+
+.team {
     height: 500px;
     width: 100%;
-    margin:100px 0px;
+    margin: 100px 0px;
 }
-.heros{
+
+.heros {
     height: 50px;
-    width: 40%;
+    width: 30%;
     margin: auto;
     background-color: darkcyan;
 }
-.creative-team{
-    height: 200px;
-    width: 60%;
+
+.creative-team {
+    height: 150px;
+    width: 30%;
     background-color: black;
     margin: 50px auto;
 }
-.team-para{
-    height: 300px;
+
+.team-para {
+    height: 200px;
+    width: 50%;
+    margin: auto;
+    background-color: darkgray;
+}
+
+.cards {
     width: 80%;
     margin: auto;
-    background-color: darkgray
+    overflow: auto;
+}
+
+.card {
+    width: 50%;
+    padding: 30px;
+    float: left;
+}
+
+.team-card {
+    height: 1000px;
+    width: 100%;
+    background-color: grey;
+    float: left;
+}
+
+.image {
+    height: 700px;
+    width: 100%;
+    background-color: firebrick;
+}
+
+.name {
+    height: 50px;
+    width: 50%;
+    margin: 25px auto;
+    background-color: black;
+}
+
+.post {
+    height: 50px;
+    width: 40%;
+    margin: 15px auto;
+    background-color: dimgray;
+}
+
+.socialmedia {
+    width: 30%;
+    margin: 40px auto;
+    overflow: auto;
+}
+
+.icon {
+    width: 33.33%;
+    margin: auto;
+    float: left;
+    padding: 10px;
+}
+.fb{
+    height: 50px;
+    width: 100%;
+    float: left;
+    background-color: blue;
 }
