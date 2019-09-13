@@ -243,33 +243,36 @@ five-steps {
     background-color: darkgray;
 }
 
+.team-cards {
+    width: 100%;
+}
+
 .cards {
     width: 80%;
-    margin: auto;
+    margin: 200px auto;
     overflow: auto;
 }
 
 .card {
     width: 50%;
-    padding: 30px;
     float: left;
+    padding: 20px;
 }
 
-.team-card {
+.first-card {
     height: 1000px;
     width: 100%;
-    background-color: grey;
-    float: left;
+    background-color: navajowhite;
 }
 
 .image {
     height: 700px;
     width: 100%;
-    background-color: firebrick;
+    background-color: cadetblue;
 }
 
 .name {
-    height: 50px;
+    height: 55px;
     width: 50%;
     margin: 25px auto;
     background-color: black;
@@ -294,9 +297,415 @@ five-steps {
     float: left;
     padding: 10px;
 }
-.fb{
+
+.fb {
     height: 50px;
     width: 100%;
     float: left;
     background-color: blue;
 }
+
+.blog-features {
+    width: 100%;
+}
+
+.service-offfer {
+    width: 80%;
+    margin: auto;
+    overflow: auto;
+}
+
+.about-blog {
+    width: 50%;
+    float: left;
+    overflow: auto;
+    padding: 20px;
+}
+
+.blog-block1 {
+    height: 700px;
+    width: 100%;
+    float: left;
+}
+
+.blog-title {
+    height: 50px;
+    width: 50%;
+    margin: 20px 0px;
+    background-color: skyblue;
+}
+
+.feature-title {
+    height: 150px;
+    width: 90%;
+    margin: 20px 0px 80px 0px;
+    background-color: black;
+}
+
+.blog-para {
+    height: 200px;
+    width: 98%;
+    margin: 100px 0px 0px 0px;
+    background-color: gray;
+}
+
+.blog-button {
+    height: 80px;
+    width: 200px;
+    margin: 50px 0px;
+    background-color: limegreen;
+}
+
+.blog-block2 {
+    height: 700px;
+    width: 100%;
+    float: left;
+    background-color: darkgray;
+}
+
+.portfolio-designs {
+    width: 100%;
+}
+
+.portfolio {
+    width: 80%;
+    margin: auto;
+}
+
+.portfolio-title {
+    height: 50px;
+    width: 20%;
+    margin: 300px auto 80px;
+    background-color: skyblue;
+}
+
+.creative-work {
+    height: 150px;
+    width: 40%;
+    margin: 100px auto;
+    background-color: black;
+}
+
+.portfolio-para {
+    height: 100px;
+    width: 60%;
+    background-color: indigo;
+    margin: 50px auto 100px;
+}
+
+.portfolio-design {
+    width: 100%;
+    overflow: auto;
+    padding: 20px;
+}
+
+.images {
+    width: 50%;
+    float: left;
+    padding: 20px;
+}
+
+.portfolio-image {
+    width: 100%;
+    padding: 30px;
+    background-color: skyblue;
+}
+
+.wood-design {
+    height: 900px;
+    width: 100%;
+    background-color: lightgrey;
+}
+
+.view-button {
+    height: 50px;
+    width: 20%;
+    background-color: greenyellow;
+    margin: 100px auto;
+}
+
+.portfolio-2ndpart {
+    width: 100%;
+}
+
+.provide-apps-block {
+    width: 80%;
+    margin: 200px auto;
+}
+
+.provide-app-text {
+    height: 50px;
+    width: 30%;
+    background-color: skyblue;
+    margin: auto;
+}
+
+.mobile-apps-title {
+    height: 150px;
+    width: 50%;
+    margin: 50px auto;
+    background-color: black;
+}
+
+.mobile-app-feature {
+    width: 80%;
+    margin: 200px auto;
+    padding: 20px;
+}
+
+.app-table {
+    width: 100%;
+    padding: 20px;
+    overflow: auto;
+}
+
+.column {
+    height: 900px;
+    width: 33.33%;
+    float: left;
+    overflow: auto;
+}
+
+.features {
+    height: 300px;
+    width: 60%;
+    float: left;
+    padding: 25px;
+}
+
+.feature-title {
+    height: 50px;
+    background-color: black;
+    width: 70%;
+    margin: 20px 90px;
+}
+
+.feature-para {
+    height: 150px;
+    width: 100%;
+    background-color: darkgray;
+}
+
+.app-icon {
+    height: 140px;
+    width: 23%;
+    float: left;
+    margin: 80px 40px;
+    background-color: cadetblue;
+}
+
+.mobile {
+    width: 100%;
+    background-color: peachpuff;
+    float: left;
+    margin: 30px 0px;
+}
+
+.mobile-image {
+    height: 830px;
+    width: 80%;
+    margin: auto;
+}
+
+.featuretitle {
+    height: 50px;
+    background-color: black;
+    width: 70%;
+    margin: 20px 0px;
+}
+
+.featurepara {
+    height: 150px;
+    width: 100%;
+    background-color: darkgray;
+}
+
+.fun-facts {
+    width: 100%;
+    padding: 100px 0px;
+    background-color: greenyellow;
+}
+
+.facts-container {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    overflow: auto;
+}
+
+.first-fact {
+    width: 25%;
+    float: left;
+    padding: 20px;
+}
+
+.facts {
+    height: 400px;
+    width: 100%;
+}
+
+.emoji-icon {
+    height: 80px;
+    width: 20%;
+    margin: 20px auto;
+    background-color: white;
+}
+
+.numbers {
+    height: 100px;
+    width: 50%;
+    margin: 50px auto;
+    background-color: white;
+}
+
+.rate {
+    height: 50px;
+    width: 85%;
+    background-color: white;
+    margin: auto;
+}
+
+.package {
+    width: 100%;
+}
+
+.packages {
+    width: 100%;
+    margin: auto;
+}
+
+.choose-package {
+    height: 50px;
+    width: 20%;
+    margin: 300px auto 80px;
+    background-color: skyblue;
+}
+
+.package-title {
+    height: 150px;
+    width: 40%;
+    margin: 100px auto;
+    background-color: black;
+}
+
+.package-para {
+    height: 150px;
+    width: 70%;
+    background-color: darkgray;
+    margin: 100px auto;
+}
+
+.plans {
+    width: 80%;
+    overflow: auto;
+    margin: auto;
+    padding: 20px;
+}
+
+.plan {
+    width: 50%;
+    float: left;
+    padding: 20px;
+}
+
+.starter-plan {
+    width: 100%;
+    padding: 100px;
+    background-color: lightgrey;
+    ;
+}
+
+.plan-block {
+    width: 100%;
+    margin: auto;
+}
+
+.plan-title {
+    height: 80px;
+    width: 50%;
+    margin: 0px 0px 40px 0px;
+    background-color: black;
+}
+
+.plan-para {
+    height: 80px;
+    width: 100%;
+    background-color: grey;
+}
+
+.money {
+    width: 60%;
+    margin: 20px 0px;
+    overflow: auto;
+}
+
+.dolar {
+    height: 100px;
+    width: 60%;
+    float: left;
+    background-color: skyblue;
+}
+
+.per-month {
+    height: 50px;
+    width: 40%;
+    float: left;
+    margin: 50px 0px 0px 0px;
+    background-color: gray;
+}
+
+.plan-detail {
+    height: 600px;
+    width: 85%;
+    margin: 100px 0px 0px 0px;
+}
+
+.first-detail {
+    height: 30px;
+    width: 80%;
+    padding: 20px;
+    margin: 40px 0px 0px 0px;
+    background-color: gray;
+}
+
+.get-started {
+    height: 100px;
+    width: 50%;
+    background-color: greenyellow;
+    margin: 40px 0px 0px 0px;
+}
+
+.video-block {
+    width: 100%;
+    padding: 200px;
+    background-color: #ffc107;
+}
+
+.story {
+    height: 300px;
+    width: 100%;
+    padding: 0px 0px 50px 0px;
+}
+
+.excellent-story {
+    height: 50px;
+    width: 25%;
+    background-color: white;
+    margin: 0px 50px;
+}
+
+.watch-video {
+    height: 150px;
+    width: 35%;
+    background-color: white;
+    margin: 50px;
+}
+
+.play-now {
+    height: 80px;
+    width: 15%;
+    background-color: skyblue;
+    margin: 0px 50px;
+}
+
+
