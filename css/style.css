@@ -8,7 +8,6 @@ html {
 }
 
 .full-page {
-    height: 1100px;
     width: 100%;
     background-color: #70a5bd;
     overflow: auto;
@@ -92,18 +91,18 @@ html {
 .text-box {
     width: 40%;
     margin: 150px 200px;
-    padding: 20px;
+    padding: 40px;
 }
 
 .text1 {
-    height: 120px;
+    height: 150px;
     width: 100%;
     margin: 10px 0px;
     background-color: white;
 }
 
 .text2 {
-    height: 70px;
+    height: 100px;
     width: 90%;
     margin: 50px 0px;
     background-color: white;
