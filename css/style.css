@@ -683,7 +683,7 @@ five-steps {
 .story {
     height: 300px;
     width: 100%;
-    padding: 0px 0px 50px 0px;
+    padding: 80px 0px 400px 0px;
 }
 
 .excellent-story {
@@ -706,5 +706,35 @@ five-steps {
     background-color: skyblue;
     margin: 0px 50px;
 }
-
-
+.feedback{
+    width: 100%;
+    margin: 200px 0px;
+}
+.feedback-title{
+    height: 50px;
+    width: 15%;
+    margin: 50px auto;
+    background-color: deepskyblue;
+}
+.people-reviews{
+    height: 200px;
+    width: 40%;
+    margin: 50px auto;
+    background-color: black;
+}
+.cmnts{
+    width: 80%;
+    margin: 100px auto;
+    overflow: auto;
+    padding: 20px;
+}
+.first-cmnt{
+    width: 33.33%;
+    float: left;
+    padding: 20px;
+}
+.cmnt{
+    height: 1000px;
+    width: 100%;
+    background-color: gray;
+}
