@@ -38,7 +38,7 @@ html {
 .home {
     width: 25%;
     float: left;
-    padding: 10px;
+    padding: 10px 40px;
 }
 
 .xeonemenu {
@@ -46,10 +46,10 @@ html {
 }
 
 .feature {
-    height: 50px;
+    height: 40px;
     width: 100%;
     background-color: white;
-    margin: 15px 0px;
+    margin: 20px 0px;
 }
 
 .feature2 {
@@ -89,21 +89,26 @@ html {
 
 .text-box {
     width: 40%;
-    margin: 150px 200px;
-    padding: 40px;
+    margin: 50px auto;
+    padding: 30px;
 }
 
 .text1 {
-    height: 150px;
-    width: 100%;
-    margin: 10px 0px;
+    height: 120px;
+    width: 80%;
+    margin: 50px auto;
     background-color: white;
 }
-
+.big-thing{
+    height: 120px;
+    width: 85%;
+    background-color: white;
+    margin: 50px auto;
+}
 .text2 {
-    height: 100px;
-    width: 90%;
-    margin: 50px 0px;
+    height: 50px;
+    width: 100%;
+    margin: 50px auto;
     background-color: white;
 }
 
@@ -111,7 +116,7 @@ html {
     height: 100px;
     width: 300px;
     background-color: white;
-    margin: 100px auto;
+    margin: 50px auto;
 }
 
 .designs {
@@ -409,13 +414,13 @@ five-steps {
 }
 
 .wood-design {
-    height: 900px;
+    height: 800px;
     width: 100%;
     background-color: lightgrey;
 }
 
 .view-button {
-    height:80px;
+    height: 80px;
     width: 20%;
     background-color: greenyellow;
     margin: 80px auto;
@@ -489,12 +494,14 @@ five-steps {
     margin: 80px 40px;
     background-color: cadetblue;
 }
-.mobile-app-icon{
+
+.mobile-app-icon {
     height: 80px;
     width: 50%;
     background-color: white;
     margin: 30px auto;
 }
+
 .mobile {
     width: 100%;
     float: left;
@@ -1023,11 +1030,13 @@ five-steps {
     width: 100%;
     padding: 50px 0px;
 }
-.socialmedia-icons{
+
+.socialmedia-icons {
     width: 20%;
     background-color: black;
     margin: 50px auto;
 }
+
 .footer-xeone-logo {
     height: 100px;
     width: 15%;
@@ -1035,19 +1044,22 @@ five-steps {
     overflow: auto;
     background-color: black;
 }
-.fb-icon{
+
+.fb-icon {
     width: 16.66%;
     float: left;
     padding: 20px;
     overflow: auto;
 }
-.twitter-icon{
+
+.twitter-icon {
     height: 30px;
     width: 100%;
     float: left;
     background-color: black;
 }
-.copyright-content{
+
+.copyright-content {
     height: 20px;
     width: 25%;
     margin: 180px auto 0px;
