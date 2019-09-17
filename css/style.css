@@ -459,7 +459,6 @@ five-steps {
 }
 
 .column {
-    height: 900px;
     width: 33.33%;
     float: left;
     overflow: auto;
@@ -476,7 +475,7 @@ five-steps {
     height: 50px;
     background-color: black;
     width: 70%;
-    margin: 20px 90px;
+    margin: 30px 0px;
 }
 
 .feature-para {
@@ -706,35 +705,347 @@ five-steps {
     background-color: skyblue;
     margin: 0px 50px;
 }
-.feedback{
+
+.feedback {
     width: 100%;
     margin: 200px 0px;
 }
-.feedback-title{
+
+.feedback-title {
     height: 50px;
     width: 15%;
     margin: 50px auto;
     background-color: deepskyblue;
 }
-.people-reviews{
+
+.people-reviews {
     height: 200px;
     width: 40%;
     margin: 50px auto;
     background-color: black;
 }
-.cmnts{
+
+.cmnts {
     width: 80%;
     margin: 100px auto;
     overflow: auto;
     padding: 20px;
 }
-.first-cmnt{
+
+.first-cmnt {
     width: 33.33%;
     float: left;
     padding: 20px;
 }
-.cmnt{
-    height: 1000px;
+
+.cmnt {
     width: 100%;
+    overflow: auto;
+}
+
+.box-cmnt {
+    height: 400px;
+    width: 100%;
+    margin: 50px auto;
+    float: left;
+    background-color: rgba(1, 1, 1, 0.05);
+}
+
+.inverted-coma {
+    height: 100px;
+    width: 100px;
+    margin: auto;
+    background-color: skyblue;
+}
+
+.people-image {
+    height: 150px;
+    width: 150px;
+    background-color: gainsboro;
+    margin: 270px auto 30px;
+}
+
+.people-name {
+    height: 50px;
+    width: 50%;
+    background-color: black;
+    margin: auto;
+}
+
+.businessman {
+    height: 30px;
+    width: 40%;
+    background-color: skyblue;
+    margin: 30px auto;
+}
+
+.vertical-slide-menu {
+    width: 13%;
+    margin: auto;
+    overflow: auto;
+    padding: 20px;
+}
+
+.circle-box {
+    width: 33.33%;
+    float: left;
+    padding: 20px;
+    margin: 0px 0px;
+}
+
+.circle {
+    height: 20px;
+    width: 100%;
+    background-color: skyblue;
+}
+
+.envato {
+    width: 80%;
+    margin: 100px auto;
+    overflow: auto;
+}
+
+.envato-word {
+    width: 20%;
+    padding: 30px 10px;
+    float: left;
+}
+
+.envato-logo {
+    height: 100px;
+    width: 80%;
+    margin: auto;
+    background-color: gray;
+}
+
+.blog-post-block {
+    height: 850px;
+    width: 100%;
+    overflow: auto;
+    margin: 200px 0px;
+}
+
+.blog-post {
+    height: 850px;
+    width: 50%;
+    float: left;
+    background-color: grey;
+}
+
+.about-post {
+    height: 850px;
+    width: 50%;
+    float: left;
+    background-color: gainsboro;
+}
+
+.post-container {
+    width: 90%;
+    margin: 150px auto;
+}
+
+.read-news {
+    height: 50px;
+    width: 30%;
+    margin: auto;
+    background-color: skyblue;
+}
+
+.service-offer {
+    height: 50px;
+    width: 40%;
+    background-color: deepskyblue;
+    margin: 150px 350px 50px 350px;
+}
+
+.post-title {
+    height: 80px;
+    width: 60%;
+    background-color: black;
+    margin: 50px auto;
+}
+
+.post-para {
+    height: 150px;
+    width: 90%;
+    background-color: grey;
+    margin: 50px auto;
+}
+
+.read-full-story {
+    height: 50px;
+    width: 20%;
+    background-color: greenyellow;
+    margin: 50px auto;
+}
+
+.contact-page {
+    width: 80%;
+    margin: auto;
+}
+
+.contact {
+    height: 300px;
+    width: 80%;
+}
+
+.contact-text {
+    height: 50px;
+    width: 25%;
+    background-color: skyblue;
+    margin: 50px 0px;
+}
+
+.contact-xeone {
+    height: 150px;
+    width: 45%;
+    background-color: black;
+    margin: 25px 0px;
+}
+
+.details {
+    width: 100%;
+    margin: auto;
+    overflow: auto;
+}
+
+.contact-details {
+    width: 50%;
+    float: left;
+    padding: 20px 20px 20px 0px;
+}
+
+.xeone-details {
+    width: 100%;
+    overflow: auto;
+}
+
+.contact-para {
+    height: 150px;
+    width: 95%;
+    background-color: gainsboro;
+}
+
+.xeone-contact-stations {
+    width: 100%;
+    margin: 100px 0px;
+    background-color: white;
+    overflow: auto;
+}
+
+.xeone-address {
+    width: 50%;
+    float: left;
+}
+
+.address-title {
+    height: 50px;
+    width: 55%;
+    margin: 50px 0px;
+    background-color: black;
+}
+
+.address {
+    height: 100px;
+    width: 95%;
+    margin: 50px 0px;
+    background-color: gainsboro;
+}
+
+.get-direction {
+    height: 40px;
+    width: 50%;
+    margin: 50px 0px;
+    background-color: skyblue;
+}
+
+.personal-details {
+    width: 100%;
+    overflow: auto;
+}
+
+.details-container {
+    height: 130px;
+    width: 50%;
+    float: left;
+    margin: 20px 0px;
+    padding: 20px 0px;
+}
+
+.first-name {
+    height: 50px;
+    width: 50%;
+    background-color: gainsboro;
+    padding: 20px;
+}
+
+.underline {
+    height: 5px;
+    width: 90%;
+    margin: 25px 0px;
+    background-color: gainsboro;
+}
+
+.message {
+    height: 50px;
+    width: 25%;
+    background-color: gainsboro;
+    margin: 100px 0px 300px 0px;
+}
+
+.submit-request {
+    height: 100px;
+    width: 100%;
+    margin: 50px 0px;
+    background-color: skyblue;
+    overflow: auto;
+}
+
+.submit-button {
+    height: 40px;
+    width: 35%;
+    background-color: white;
+    margin: 30px auto;
+}
+
+.map {
+    height: 600px;
+    width: 100%;
+    background-color: peachpuff;
+    margin: 100px 0px;
+}
+
+.xeone-footer {
+    width: 100%;
+    padding: 50px 0px;
+}
+.socialmedia-icons{
+    width: 20%;
+    background-color: black;
+    margin: 50px auto;
+}
+.footer-xeone-logo {
+    height: 100px;
+    width: 15%;
+    margin: auto;
+    overflow: auto;
+    background-color: black;
+}
+.fb-icon{
+    width: 16.66%;
+    float: left;
+    padding: 20px;
+    overflow: auto;
+}
+.twitter-icon{
+    height: 30px;
+    width: 100%;
+    float: left;
+    background-color: black;
+}
+.copyright-content{
+    height: 20px;
+    width: 25%;
+    margin: 180px auto 0px;
     background-color: gray;
 }
