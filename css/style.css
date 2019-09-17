@@ -327,21 +327,21 @@ five-steps {
 .blog-title {
     height: 50px;
     width: 50%;
-    margin: 20px 0px;
+    margin: 0px 0px 50px 0px;
     background-color: skyblue;
 }
 
 .feature-title {
-    height: 150px;
+    height: 100px;
     width: 90%;
-    margin: 20px 0px 80px 0px;
+    margin: 50px 0px 100px 0px;
     background-color: black;
 }
 
 .blog-para {
     height: 200px;
     width: 98%;
-    margin: 100px 0px 0px 0px;
+    margin: 100px 0px 50px 0px;
     background-color: gray;
 }
 
@@ -353,7 +353,7 @@ five-steps {
 }
 
 .blog-block2 {
-    height: 700px;
+    height: 650px;
     width: 100%;
     float: left;
     background-color: darkgray;
@@ -469,14 +469,14 @@ five-steps {
     padding: 25px;
 }
 
-.feature-title {
+.featuretitle {
     height: 50px;
     background-color: black;
     width: 70%;
     margin: 30px 0px;
 }
 
-.feature-para {
+.featurepara {
     height: 150px;
     width: 100%;
     background-color: darkgray;
@@ -489,10 +489,14 @@ five-steps {
     margin: 80px 40px;
     background-color: cadetblue;
 }
-
+.mobile-app-icon{
+    height: 80px;
+    width: 50%;
+    background-color: white;
+    margin: 30px auto;
+}
 .mobile {
     width: 100%;
-    background-color: peachpuff;
     float: left;
     margin: 30px 0px;
 }
@@ -501,6 +505,7 @@ five-steps {
     height: 830px;
     width: 80%;
     margin: auto;
+    background-color: pink;
 }
 
 .featuretitle {
@@ -574,22 +579,22 @@ five-steps {
 .choose-package {
     height: 50px;
     width: 20%;
-    margin: auto;
+    margin: 50px auto;
     background-color: skyblue;
 }
 
 .package-title {
     height: 150px;
     width: 40%;
-    margin: 100px auto;
+    margin: 50px auto;
     background-color: black;
 }
 
 .package-para {
     height: 150px;
-    width: 70%;
+    width: 65%;
     background-color: darkgray;
-    margin: 100px auto;
+    margin: 50px auto;
 }
 
 .plans {
