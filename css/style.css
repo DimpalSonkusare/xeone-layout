@@ -43,14 +43,13 @@ html {
 
 .xeonemenu {
     width: 100%;
-    float: left;
 }
 
 .feature {
     height: 50px;
-    width: 139px;
+    width: 100%;
     background-color: white;
-    margin: 15px 10px;
+    margin: 15px 0px;
 }
 
 .feature2 {
@@ -188,7 +187,6 @@ five-steps {
 }
 
 .step1 {
-    height: 500px;
     width: 20%;
     float: left;
     padding: 20px;
@@ -259,7 +257,6 @@ five-steps {
 }
 
 .first-card {
-    height: 1000px;
     width: 100%;
     background-color: navajowhite;
 }
@@ -364,6 +361,7 @@ five-steps {
 
 .portfolio-designs {
     width: 100%;
+    margin: 300px auto;
 }
 
 .portfolio {
@@ -374,14 +372,14 @@ five-steps {
 .portfolio-title {
     height: 50px;
     width: 20%;
-    margin: 300px auto 80px;
+    margin: 50px auto;
     background-color: skyblue;
 }
 
 .creative-work {
     height: 150px;
     width: 40%;
-    margin: 100px auto;
+    margin: 50px auto;
     background-color: black;
 }
 
@@ -389,7 +387,7 @@ five-steps {
     height: 100px;
     width: 60%;
     background-color: indigo;
-    margin: 50px auto 100px;
+    margin: 50px auto;
 }
 
 .portfolio-design {
@@ -417,10 +415,10 @@ five-steps {
 }
 
 .view-button {
-    height: 50px;
+    height:80px;
     width: 20%;
     background-color: greenyellow;
-    margin: 100px auto;
+    margin: 80px auto;
 }
 
 .portfolio-2ndpart {
@@ -565,6 +563,7 @@ five-steps {
 
 .package {
     width: 100%;
+    margin: 300px 0px 100px 0px;
 }
 
 .packages {
@@ -575,7 +574,7 @@ five-steps {
 .choose-package {
     height: 50px;
     width: 20%;
-    margin: 300px auto 80px;
+    margin: auto;
     background-color: skyblue;
 }
 
